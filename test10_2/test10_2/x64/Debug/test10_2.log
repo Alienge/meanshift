@@ -1,0 +1,132 @@
+﻿  test.cpp
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(190): error C3861: “cvGetMatSize”: 找不到标识符
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(353): error C2733: “cvPyrMeanShiftFiltering”: 不允许重载函数的第二个 C 链接
+  d:\opencv\opencv\build\include\opencv2\imgproc\imgproc_c.h(175): note: 参见“cvPyrMeanShiftFiltering”的声明
+d:\vs\example\test10_2\test10_2\test.cpp(56): warning C4566: 由通用字符名称“\u56FE”表示的字符不能在当前代码页(1252)中表示出来
+d:\vs\example\test10_2\test10_2\test.cpp(56): warning C4566: 由通用字符名称“\u50CF”表示的字符不能在当前代码页(1252)中表示出来
+d:\vs\example\test10_2\test10_2\test.cpp(56): warning C4566: 由通用字符名称“\u5206”表示的字符不能在当前代码页(1252)中表示出来
+d:\vs\example\test10_2\test10_2\test.cpp(56): warning C4566: 由通用字符名称“\u5272”表示的字符不能在当前代码页(1252)中表示出来
+  cvpymeanshfit.cpp
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(190): error C3861: “cvGetMatSize”: 找不到标识符
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(353): error C2733: “cvPyrMeanShiftFiltering”: 不允许重载函数的第二个 C 链接
+  d:\opencv\opencv\build\include\opencv2\imgproc\imgproc_c.h(175): note: 参见“cvPyrMeanShiftFiltering”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): error C2011: “CvWSNode”:“struct”类型重定义
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): error C2011: “CvWSQueue”:“struct”类型重定义
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(72): error C2011: “Data”:“struct”类型重定义
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(72): note: 参见“Data”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(76): error C2011: “CvStack”:“struct”类型重定义
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(76): note: 参见“CvStack”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(82): error C2084: 函数“void Init(CvStack &)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(81): note: 参见“Init”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(83): error C2027: 使用了未定义类型“CvStack”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(76): note: 参见“CvStack”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(83): error C2228: “.top”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(87): error C2084: 函数“void Push(CvStack &,Data)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(86): note: 参见“Push”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(88): error C2027: 使用了未定义类型“CvStack”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(76): note: 参见“CvStack”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(88): error C2228: “.data”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(88): error C2228: “.top”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(91): error C2084: 函数“Data Pop(CvStack &)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(90): note: 参见“Pop”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(91): error C2027: 使用了未定义类型“Data”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(72): note: 参见“Data”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(92): error C2079: “data”使用未定义的 struct“Data”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(93): error C2027: 使用了未定义类型“CvStack”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(76): note: 参见“CvStack”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(93): error C2228: “.data”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(93): error C2228: “.top”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(99): error C2084: 函数“CvWSNode *icvAllocWSNodes(CvMemStorage *)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(98): note: 参见“icvAllocWSNodes”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(106): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(106): error C2228: “.next”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(107): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(107): error C2228: “.next”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(115): error C2084: 函数“void cvWatershed(const CvArr *,CvArr *)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(114): note: 参见“cvWatershed”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(190): error C3861: “cvGetMatSize”: 找不到标识符
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2568: “=”: 无法解析函数重载
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): note: 可能是“CvWSNode *icvAllocWSNodes(CvMemStorage *)”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(242): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(250): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(250): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(269): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(269): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(272): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(272): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(279): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2568: “=”: 无法解析函数重载
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): note: 可能是“CvWSNode *icvAllocWSNodes(CvMemStorage *)”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(311): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2568: “=”: 无法解析函数重载
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): note: 可能是“CvWSNode *icvAllocWSNodes(CvMemStorage *)”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(318): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2568: “=”: 无法解析函数重载
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): note: 可能是“CvWSNode *icvAllocWSNodes(CvMemStorage *)”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(325): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2568: “=”: 无法解析函数重载
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): note: 可能是“CvWSNode *icvAllocWSNodes(CvMemStorage *)”
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2027: 使用了未定义类型“CvWSNode”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(57): note: 参见“CvWSNode”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2227: “->next”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2227: “->mask_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2227: “->img_ofs”的左边必须指向类/结构/联合/泛型类型
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2027: 使用了未定义类型“CvWSQueue”
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(65): note: 参见“CvWSQueue”的声明
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2228: “.last”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(332): error C2228: “.first”的左边必须有类/结构/联合
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(341): error C2084: 函数“void cv::watershed(cv::InputArray,cv::InputOutputArray)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(340): note: 参见“watershed”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(356): error C2084: 函数“void cvPyrMeanShiftFiltering(const CvArr *,CvArr *,int **&,double,double,int,CvTermCriteria)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(353): note: 参见“cvPyrMeanShiftFiltering”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(602): error C2084: 函数“void pyrMeanShiftFiltering(cv::InputArray,cv::OutputArray,int **&,double,double,int,cv::TermCriteria)”已有主体
+  d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(599): note: 参见“pyrMeanShiftFiltering”的前一个定义
+d:\vs\example\test10_2\test10_2\cvpymeanshfit.cpp(610): error C2264: “cvPyrMeanShiftFiltering”: 函数定义或声明中有错误；未调用函数
+  正在生成代码...
